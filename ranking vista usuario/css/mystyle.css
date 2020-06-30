@@ -1,0 +1,13 @@
+table.table {
+  width: 40%;
+}
+
+.table-center{
+  text-align: center;
+}
+
+th {
+  border: 1px solid #a8885e;
+  background-color: #c6a16e;
+  color: white;
+}

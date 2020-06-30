@@ -1,0 +1,35 @@
+.table-center{
+  text-align: center;
+}
+
+th {
+  border: 1px solid #a8885e;
+  background-color: #c6a16e;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
+
+th.sub-heading {
+  font-weight: normal;
+  font-size: 18px;
+}
+
+td {
+  border: 1px solid #a8885e;
+  font-size: 18px;
+}
+
+.short {
+  width: 40%;
+}
+
+h1.inline {
+  display: inline-block;
+}
+
+a.agregar-jugador{
+  margin-top: 10px;
+}
+
+
